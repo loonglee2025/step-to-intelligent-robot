@@ -1,0 +1,142 @@
+# 🤖 Step To Intelligent Robot
+
+本仓库是从飞书知识库 [🤖 Step To Intelligent Robot](https://ai.feishu.cn/wiki/YVdkwIsjEiyLVpkJPXXct7T1n1f) 导出的本地镜像，按原知识库层级结构组织为 Markdown 文件。
+
+## 导出信息
+
+- **知识库空间 ID**: `7521563561391357971`
+- **导出方式**: `lark-cli wiki +node-list` 递归遍历 + `lark-cli docs +fetch --format markdown` 导出
+- **文件总数**: 105 个 Markdown 文件
+- **仓库大小**: 约 1.9M
+
+## 目录结构
+
+- **Robot 软件**
+  - [micro-ROS 项目简介、使命、愿景与发展历程](Robot%20软件/micro-ROS%20项目简介、使命、愿景与发展历程.md)
+  - **ros开发库**
+    - **C++**
+      - [cv_bridge 函数参考手册](Robot%20软件/ros开发库/C++/cv_bridge%20函数参考手册.md)
+    - [C++](Robot%20软件/ros开发库/C++.md)
+    - [Python](Robot%20软件/ros开发库/Python.md)
+    - [ROS2 命令大全](Robot%20软件/ros开发库/ROS2%20命令大全.md)
+    - [ROS2 开发中 slam_toolbox 使用指南](Robot%20软件/ros开发库/ROS2%20开发中%20slam_toolbox%20使用指南.md)
+    - [ROS2 插件与调试_可视化工具合集说明](Robot%20软件/ros开发库/ROS2%20插件与调试_可视化工具合集说明.md)
+    - [ROS2资讯](Robot%20软件/ros开发库/ROS2资讯.md)
+    - [opencv_reference_manual](Robot%20软件/ros开发库/opencv_reference_manual.md)
+  - [ros开发库](Robot%20软件/ros开发库.md)
+  - [slam 算法](Robot%20软件/slam%20算法.md)
+  - [自动驾驶系统](Robot%20软件/自动驾驶系统.md)
+- [Robot 软件](Robot%20软件.md)
+- **其他**
+  - [亲眼目睹一家机器人创业公司倒闭，我学到了六件事](其他/亲眼目睹一家机器人创业公司倒闭，我学到了六件事.md)
+  - [机器人何时应该思考？](其他/机器人何时应该思考？.md)
+  - [机器人领域重点跟踪名单](其他/机器人领域重点跟踪名单.md)
+  - [清华经管杨斌教授：超越机器人去想象robot｜《机器人简史》](其他/清华经管杨斌教授：超越机器人去想象robot｜《机器人简史》.md)
+- [其他](其他.md)
+- **学习资源**
+  - [三方资料](学习资源/三方资料.md)
+  - [经典书籍](学习资源/经典书籍.md)
+  - **网络课程**
+    - [CS498GC_ Mobile Robotics](学习资源/网络课程/CS498GC_%20Mobile%20Robotics.md)
+  - [网络课程](学习资源/网络课程.md)
+- [学习资源](学习资源.md)
+- [嵌入式软件](嵌入式软件.md)
+- **技术最前沿**
+  - [2026 RBR50 机器人创新奖全景解读：机器人产业正在从自动化走向 Physical AI](技术最前沿/2026%20RBR50%20机器人创新奖全景解读：机器人产业正在从自动化走向%20Physical%20AI.md)
+  - **Robot security research**
+    - [机器人网络安全前沿研究论文集：从漏洞评估到AI攻防（Alias Robotics 29篇精选）](技术最前沿/Robot%20security%20research/机器人网络安全前沿研究论文集：从漏洞评估到AI攻防（Alias%20Robotics%2029篇精选）.md)
+    - [机器人网络安全综述](技术最前沿/Robot%20security%20research/机器人网络安全综述.md)
+    - [机器人领域的DevSecOps](技术最前沿/Robot%20security%20research/机器人领域的DevSecOps.md)
+  - [Robot security research](技术最前沿/Robot%20security%20research.md)
+  - [全球机器人技术路线图 2025–2035](技术最前沿/全球机器人技术路线图%202025–2035.md)
+  - [论文摘要：LeRobot——面向端到端机器人学习的开源库](技术最前沿/论文摘要：LeRobot——面向端到端机器人学习的开源库.md)
+- [技术最前沿](技术最前沿.md)
+- [机械结构](机械结构.md)
+- **电子硬件**
+  - [硬件与传感器技术](电子硬件/硬件与传感器技术.md)
+- [电子硬件](电子硬件.md)
+- **论文摘要**
+  - [FreeOcc：免训练的具身开放词汇占用预测](论文摘要/FreeOcc：免训练的具身开放词汇占用预测.md)
+- [论文摘要](论文摘要.md)
+- **🤖 Step To Intelligent Robot**
+  - **A Beginner's Guide to Autonomous Robots**
+    - **Current Trends and Future Directions in Robotics**
+      - [Mobility Foundation Model](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/Mobility%20Foundation%20Model.md)
+      - [NVIDIA Cosmos](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/NVIDIA%20Cosmos.md)
+      - [Open Challenges in Robotics](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/Open%20Challenges%20in%20Robotics.md)
+      - [Physical AI and Simulation](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/Physical%20AI%20and%20Simulation.md)
+      - [Review](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/Review.md)
+      - [Robotics Tasks Leveraging Foundation Models](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/Robotics%20Tasks%20Leveraging%20Foundation%20Models.md)
+      - [VLM, LLM and RAG for Robotics](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics/VLM,%20LLM%20and%20RAG%20for%20Robotics.md)
+    - [Current Trends and Future Directions in Robotics](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Current%20Trends%20and%20Future%20Directions%20in%20Robotics.md)
+    - **Enabling Autonomous Robots**
+      - [Control Systems in Robotics](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Control%20Systems%20in%20Robotics.md)
+      - [Localization and Mapping](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Localization%20and%20Mapping.md)
+      - [Navigation and Path Planning](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Navigation%20and%20Path%20Planning.md)
+      - [Perception](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Perception.md)
+      - [Review](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Review.md)
+      - [Sensing](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots/Sensing.md)
+    - [Enabling Autonomous Robots](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Enabling%20Autonomous%20Robots.md)
+    - **Fundamentals of Autonomous Robots**
+      - [Autonomous Robots](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Fundamentals%20of%20Autonomous%20Robots/Autonomous%20Robots.md)
+      - [Embodied AI](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Fundamentals%20of%20Autonomous%20Robots/Embodied%20AI.md)
+      - [Human-Robot Interaction](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Fundamentals%20of%20Autonomous%20Robots/Human-Robot%20Interaction.md)
+      - [Review](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Fundamentals%20of%20Autonomous%20Robots/Review.md)
+    - [Fundamentals of Autonomous Robots](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Fundamentals%20of%20Autonomous%20Robots.md)
+    - **Robotic Systems and Architecture**
+      - [Autonomy Software Architecture](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Robotic%20Systems%20and%20Architecture/Autonomy%20Software%20Architecture.md)
+      - [Hardware Integration](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Robotic%20Systems%20and%20Architecture/Hardware%20Integration.md)
+      - [Review](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Robotic%20Systems%20and%20Architecture/Review.md)
+      - [Robotics Integration](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Robotic%20Systems%20and%20Architecture/Robotics%20Integration.md)
+    - [Robotic Systems and Architecture](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots/Robotic%20Systems%20and%20Architecture.md)
+  - [A Beginner's Guide to Autonomous Robots](🤖%20Step%20To%20Intelligent%20Robot/A%20Beginner's%20Guide%20to%20Autonomous%20Robots.md)
+  - [Welcome to the 🤗 Robotics Course](🤖%20Step%20To%20Intelligent%20Robot/Welcome%20to%20the%20🤗%20Robotics%20Course.md)
+  - **基于Isac ROS的人工智能机器人开发入门**
+    - [Three Computer Solution](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/Three%20Computer%20Solution.md)
+    - [What Is Isaac ROS_](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/What%20Is%20Isaac%20ROS_.md)
+    - [What Is NITROS_](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/What%20Is%20NITROS_.md)
+    - [What Is NVIDIA Isaac_](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/What%20Is%20NVIDIA%20Isaac_.md)
+    - [What is ROS_](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/What%20is%20ROS_.md)
+    - [学习目标](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/学习目标.md)
+    - [总结](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/总结.md)
+    - [课程大纲](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门/课程大纲.md)
+  - [基于Isac ROS的人工智能机器人开发入门](🤖%20Step%20To%20Intelligent%20Robot/基于Isac%20ROS的人工智能机器人开发入门.md)
+  - **如何入门机器人**
+    - [Lesson2 总结](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/Lesson2%20总结.md)
+    - [Podcast  和影子机器人的员工讨论](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/Podcast%20%20和影子机器人的员工讨论.md)
+    - [Podcast2](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/Podcast2.md)
+    - [lesson1 小结](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson1%20小结.md)
+    - [lesson1 概览](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson1%20概览.md)
+    - [lesson2 概览](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson2%20概览.md)
+    - [lesson3 概览](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson3%20概览.md)
+    - [lesson4 小结](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson4%20小结.md)
+    - [lesson4 概览](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/lesson4%20概览.md)
+    - [下一步计划](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/下一步计划.md)
+    - [什么是智能机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/什么是智能机器人.md)
+    - [什么是机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/什么是机器人.md)
+    - [其他相关职业](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/其他相关职业.md)
+    - [医疗与康养机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/医疗与康养机器人.md)
+    - [家用机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/家用机器人.md)
+    - [工业机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/工业机器人.md)
+    - [手推车](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/手推车.md)
+    - [最后一节课](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/最后一节课.md)
+    - [未来是光明的](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/未来是光明的.md)
+    - [机器人相关职业](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/机器人相关职业.md)
+    - [机器人研究员](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/机器人研究员.md)
+    - [物流与电子商务](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/物流与电子商务.md)
+    - [理论知识和软技能在机器人领域](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/理论知识和软技能在机器人领域.md)
+    - [硬件开发](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/硬件开发.md)
+    - [第三节课总结](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/第三节课总结.md)
+    - [自动驾驶汽车](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/自动驾驶汽车.md)
+    - [课程介绍](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/课程介绍.md)
+    - [软件开发](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人/软件开发.md)
+  - [如何入门机器人](🤖%20Step%20To%20Intelligent%20Robot/如何入门机器人.md)
+  - [机器人学基础（运动学、动力学、控制理论）](🤖%20Step%20To%20Intelligent%20Robot/机器人学基础（运动学、动力学、控制理论）.md)
+- [🤖 Step To Intelligent Robot](🤖%20Step%20To%20Intelligent%20Robot.md)
+
+## 特殊说明
+
+- `Robot 软件/ros开发库/OpenCV 核心功能参考手册.md` 在飞书中底层类型为 `file`，已使用 `lark-cli drive +download` 原样下载，扩展名修正为 `.md`。
+- 根目录 `__download_notes.md` 记录导出的技术细节。
+
+可直接阅读 Markdown，或通过全文搜索（如 `rg`、`grep`）查找内容。
