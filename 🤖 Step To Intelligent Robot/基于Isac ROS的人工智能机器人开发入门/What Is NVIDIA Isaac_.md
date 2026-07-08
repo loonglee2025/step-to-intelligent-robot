@@ -1,0 +1,12 @@
+# What Is NVIDIA Isaac?
+
+<!-- 飞书 node_token: ALgKw9hhaicde4kyBzmc2JALnAf | obj_token: Qlald0TYUo0msOxiRMfcqW1snZf -->
+
+{
+  "document": {
+    "content": "\u003ctitle\u003eWhat Is NVIDIA Isaac?\u003c/title\u003e\u003cp\u003eThe NVIDIA Isaac AI robot development platform consists of NVIDIA CUDA-accelerated libraries, application frameworks, and AI models that accelerate the development of AI robots such as autonomous mobile robots (AMRs), manipulators, and humanoids.\u003c/p\u003e\u003cp\u003eNVIDIA Isaac人工智能机器人开发平台由NVIDIA CUDA加速库、应用框架和人工智能模型组成，这些组件可加速人工智能机器人的开发，例如自主移动机器人（AMRs）、机械臂和人形机器人。\u003c/p\u003e\u003cimg name=\"图片.png\" href=\"https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=Yjc5MmQ5OGQyYjdjMjg3NTMzYzljYWVjOTQ5NzdjNjBfMmM2OTgwNjBmYmJmZjA5OGRlMWQxNzVhMTlmZDVlZDRfSUQ6NzU2MDUzNzM3OTA0MTA5OTc5NV8xNzgzNTE0ODM5OjE3ODM1MTg0MzlfVjM\" mime=\"image/png\" scale=\"1.000000\" src=\"JxXRb5qNBoP70rxOcnIctcR3nuf\"/\u003e\u003cp\u003eTo achieve its goal of enabling intelligent robots, Isaac employs several strategies:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003eBuilding Accelerated Components:\u003c/b\u003e Isaac focuses on developing components that utilize NVIDIA’s acceleration technologies.\u003c/li\u003e\u003cli\u003e\u003cb\u003eProviding Reference Solutions:\u003c/b\u003e The platform offers reference solutions that allow users to either start from a pre-built foundation or customize according to their needs.\u003c/li\u003e\u003cli\u003e\u003cb\u003eImproving Frameworks and Ecosystems:\u003c/b\u003e Isaac contributes to the improvement of robotics frameworks and ecosystems that are crucial for both NVIDIA and the broader robotics community.\u003c/li\u003e\u003cli\u003e\u003cb\u003eProductizing Cutting-Edge Research:\u003c/b\u003e The platform aims to transform advanced research into production-ready components, making theoretical advancements practical for real-world applications.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e为了实现其赋能智能机器人的目标，Isaac采用了多种策略：\u003c/p\u003e\u003cp\u003e• 构建加速组件：Isaac专注于开发利用NVIDIA加速技术的组件。\u003c/p\u003e\u003cp\u003e• 提供参考解决方案：该平台提供参考解决方案，让用户既能从预制基础开始，也能根据自身需求进行定制。\u003c/p\u003e\u003cp\u003e• 完善框架与生态系统：Isaac助力完善机器人框架和生态系统，这对NVIDIA以及更广泛的机器人社区都至关重要。\u003c/p\u003e\u003cp\u003e• 将前沿研究产品化：该平台致力于将先进研究转化为可投入生产的组件，使理论进展能应用于实际场景。\u003c/p\u003e",
+    "document_id": "Qlald0TYUo0msOxiRMfcqW1snZf",
+    "revision_id": 11
+  },
+  "log_id": "20260708204719AE8AC4CE70B02D24DB02"
+}

@@ -1,0 +1,12 @@
+# Review
+
+<!-- 飞书 node_token: Kdz3wfD6jicv8rkYDxQcTC7onad | obj_token: UDf4dK9zGo6439xjY8McvM2tnRh -->
+
+{
+  "document": {
+    "content": "\u003ctitle\u003eReview\u003c/title\u003e\u003cp\u003eCongratulations, we’ve completed the \u003cem\u003eRobotic Systems and Architecture\u003c/em\u003e module. Let’s recap what we’ve learned.\u003c/p\u003e\u003cp\u003eIn this module, we:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003eIdentified the main components of robotic systems, including hardware and software elements\u003c/b\u003e. We explored how sensors, actuators, and controllers work together to form the physical basis of robotic systems.\u003c/li\u003e\u003cli\u003e\u003cb\u003eDescribed the process of robotics integration and its importance in creating cohesive systems\u003c/b\u003e. We learned how hardware and software components are combined to create a functional robotic system, emphasizing the importance of seamless collaboration.\u003c/li\u003e\u003cli\u003e\u003cb\u003eRecognized the role of simulation and testing in robotics development\u003c/b\u003e. We discovered how tools like NVIDIA Isaac Sim and various testing frameworks are crucial for validating robotic systems before real-world deployment.\u003c/li\u003e\u003cli\u003e\u003cb\u003eOutlined the basic structure of autonomy software architecture.\u003c/b\u003e We examined the key components of autonomy software, including perception, planning, and control, and how they interact to enable autonomous behavior.\u003c/li\u003e\u003cli\u003e\u003cb\u003eExplained the functions of key hardware components such as sensors, actuators, and controllers\u003c/b\u003e. We delved into specific examples of each, understanding their roles in enabling robots to perceive their environment and interact with it effectively.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eThis module has provided you with a solid foundation for understanding how robotic systems are built and integrated. You now have insights into both the hardware and software aspects of robotics, giving you a comprehensive view of how these complex systems come together.\u003c/p\u003e\u003cp\u003eAs we move forward, we’ll build on this knowledge to explore more advanced topics in autonomous robotics. The next module will focus on how robots understand and interact with their environment, applying the architectural concepts we’ve learned here.\u003c/p\u003e",
+    "document_id": "UDf4dK9zGo6439xjY8McvM2tnRh",
+    "revision_id": 3
+  },
+  "log_id": "20260708204709FD7FDF8CA84FEA1EE134"
+}

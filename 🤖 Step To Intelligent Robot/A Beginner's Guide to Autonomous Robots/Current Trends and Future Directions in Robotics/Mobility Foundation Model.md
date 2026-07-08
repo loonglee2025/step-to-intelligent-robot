@@ -1,0 +1,12 @@
+# Mobility Foundation Model
+
+<!-- 飞书 node_token: Yx70wApQpihcNjkh0RacGUtqnog | obj_token: GgNgdUD5poDybRxgacvc7WpjnYc -->
+
+{
+  "document": {
+    "content": "\u003ctitle\u003eMobility Foundation Model\u003c/title\u003e\u003cimg name=\"图片.png\" href=\"https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MWNhNzIyODE4M2M5MGFlM2NmZWZlZDQ2MzEzY2QwMWJfMDA0MTMxMDYxYjc2ZDg3NTBkNDdhZmZkZGVlMzE3NjVfSUQ6NzU2MDUzMjA1MTU0NTYyMDQ4NF8xNzgzNTE0ODM1OjE3ODM1MTg0MzVfVjM\" mime=\"image/png\" scale=\"1.000000\" src=\"NuJtbUJ7rowVT0xO0V9cLoienvh\"/\u003e\u003cp\u003eThe Mobility Foundation Model acts as a central “brain” for robotic systems, processing robust vision states and generating word modeling and action policies. This model is designed to work across various robotic embodiments, including Autonomous Mobile Robots (AMRs).\u003c/p\u003e\u003cimg name=\"图片.png\" href=\"https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZDU1ZjgxMWFhNWUyN2JkNzk0M2NhNWMxNzhkMzBkMzVfYzFhMTkxZGJlOWU5YWQ3MzQ1ZmE0OTcyODRkMGQwZTdfSUQ6NzU2MDUzMjEwNTYzODQ3NzgyNl8xNzgzNTE0ODM1OjE3ODM1MTg0MzVfVjM\" mime=\"image/png\" scale=\"1.000000\" src=\"PGggbsoXwoA2WmxE27PczvSinrf\"/\u003e\u003ch3\u003e\u003cb\u003eKey Features\u003c/b\u003e\u003c/h3\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003eSimulation-Based Training\u003c/b\u003e: The model is trained using only simulation data, allowing for efficient development without physical trials.\u003c/li\u003e\u003cli\u003e\u003cb\u003eZero-Shot Deployment\u003c/b\u003e: Successfully deployed in real-world environments like the Hubble Lab without additional training, demonstrating its adaptability.\u003c/li\u003e\u003cli\u003e\u003cb\u003eCross-Embodiment Capability\u003c/b\u003e: Policies developed for AMRs are transferable to other robots, such as humanoid robots, quadrupeds, and space forklifts.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eThis model exemplifies the potential for cross-platform functionality in robotics, addressing complex computational challenges and paving the way for versatile applications.\u003c/p\u003e\u003cp\u003eLearn More: \u003ca href=\"https://arxiv.org/html/2410.17491v1\"\u003eX-Mobility: End-To-End Generalizable Navigation via World Modeling\u003c/a\u003e\u003c/p\u003e",
+    "document_id": "GgNgdUD5poDybRxgacvc7WpjnYc",
+    "revision_id": 10
+  },
+  "log_id": "202607082047156D3537703320C42047E9"
+}
